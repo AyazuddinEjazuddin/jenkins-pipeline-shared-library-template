@@ -9,10 +9,7 @@ to bundle common custom pipeline tasks in a shared library so that all Jenkins p
 can leverage from them without the need to reimplement the same logic.
 
 This project provides a project template for developing shared Jenkins pipeline libraries as specified in the Jenkins
-[documentation](https://jenkins.io/doc/book/pipeline/shared-libraries/). The project is setup using Gradle which enables you to develop and unit
-test your custom Jenkins pipeline library code.
-
-Requirements
+[documentation](https://jenkins.io/doc/book/pipeline/shared-libraries/).
 ---
 [Apache Groovy](http://groovy-lang.org/)
 
